@@ -8,7 +8,7 @@ setup(
   author = 'Tanmay Agarwal',                   # Type in your name
   author_email = 'agarwaltanmay3610@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Tanmay3610/TOPSIS_Package',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Tanmay3610/TOPSIS_Package/archive/0.1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Tanmay3610/TOPSIS_Package/archive/0.1.2.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'DATA SCIENCE', 'DATA ANALYSIS'],   # Keywords that define your package best
   install_requires=['pandas', 'numpy', 'sys', 'math'],
   classifiers=[
