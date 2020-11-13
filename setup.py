@@ -6,7 +6,7 @@ setup(
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'TYPE YOUR DESCRIPTION HERE',   # Give a short description about your library
   author = 'Tanmay Agarwal',                   # Type in your name
-  author_email = 'tagarwal_be18@thapar.edu',      # Type in your E-Mail
+  author_email = 'agarwaltanmay3610@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Tanmay3610/TOPSIS_Package',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/Tanmay3610/TOPSIS_Package/archive/0.1.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'DATA SCIENCE', 'DATA ANALYSIS'],   # Keywords that define your package best
