@@ -7,3 +7,7 @@ Usages:
 python topsis.py <InputDataFile> <Weights> <Impacts> <ResultFileName>
 Example:
 python topsis.py inputfile.csv “1,1,1,2” “+,+,-,+” result.csv
+
+Package Link:
+
+https://pypi.org/project/TOPSIS-TANMAY/0.1/
